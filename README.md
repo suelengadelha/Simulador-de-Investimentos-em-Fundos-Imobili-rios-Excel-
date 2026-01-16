@@ -2,9 +2,6 @@
 
 <br>
 
-📊 [[Abrir planilha no Google Sheets](https://docs.google.com/spreadsheets/d/1_y3Pu8mt4lsbXAR5CUAr4zsbaxZlmweF/edit?usp=sharing&ouid=117578262124481762985&rtpof=true&sd=true)]
-
-
 ## 📌 Descrição do Desafio
 
 Este projeto tem como objetivo aplicar conceitos de Excel no desenvolvimento de uma ferramenta prática para simulação de investimentos em Fundos Imobiliários (FIIs).
@@ -63,7 +60,7 @@ Visualização clara dos resultados para apoio à decisão do investidor
 
 ## 📂 Estrutura do Repositório
 📁 simulador-fundos-imobiliarios
- ├── 📄 Simulador_FII.xlsx
+ ├── 📄 Controle de Investimentos.xlsx
  └── 📄 README.md
  
 <br>
@@ -87,6 +84,13 @@ Microsoft Excel
 Conceitos de matemática financeira
 
 GitHub para versionamento e documentação
+
+<br>
+
+## Link do Projeto
+
+📊 [[Abrir planilha no Google Sheets](https://docs.google.com/spreadsheets/d/1_y3Pu8mt4lsbXAR5CUAr4zsbaxZlmweF/edit?usp=sharing&ouid=117578262124481762985&rtpof=true&sd=true)]
+
  
 <br>
 

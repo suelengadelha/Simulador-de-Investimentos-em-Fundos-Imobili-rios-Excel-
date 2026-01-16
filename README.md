@@ -87,7 +87,7 @@ GitHub para versionamento e documentação
 
 <br>
 
-## Link do Projeto
+## 🔗 Link do Projeto
 
 📊 [[Abrir planilha no Google Sheets](https://docs.google.com/spreadsheets/d/1_y3Pu8mt4lsbXAR5CUAr4zsbaxZlmweF/edit?usp=sharing&ouid=117578262124481762985&rtpof=true&sd=true)]
 

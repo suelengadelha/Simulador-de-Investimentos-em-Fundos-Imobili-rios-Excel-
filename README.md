@@ -1,6 +1,6 @@
 # 📊 Simulador de Investimentos em Fundos Imobiliários (Excel)
 
-
+<br>
 
 ## 📌 Descrição do Desafio
 
@@ -16,6 +16,7 @@ Patrimônio acumulado ao longo do tempo
 
 Dividendos mensais estimados
 
+<br>
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -31,6 +32,7 @@ Ao concluir este desafio, foi possível:
 
 ✅ Utilizar o GitHub como plataforma para versionamento e compartilhamento de documentação técnica
 
+<br>
 
 ## 🛠️ Funcionalidades da Planilha
 
@@ -54,12 +56,14 @@ Dividendos mensais estimados
 
 Visualização clara dos resultados para apoio à decisão do investidor
 
+<br>
 
 ## 📂 Estrutura do Repositório
 📁 simulador-fundos-imobiliarios
  ├── 📄 Simulador_FII.xlsx
  └── 📄 README.md
  
+<br>
 
 ## 🚀 Como Utilizar
 
@@ -71,6 +75,7 @@ Preencha os campos de entrada com os valores desejados
 
 Analise os resultados gerados automaticamente pela planilha
  
+<br>
 
 ## 📚 Tecnologias Utilizadas
 
@@ -80,14 +85,16 @@ Conceitos de matemática financeira
 
 GitHub para versionamento e documentação
  
+<br>
 
 ## 📝 Observações
 
 Este projeto tem caráter educacional e não constitui recomendação de investimento.
 Os valores simulados são estimativas e podem variar conforme condições reais de mercado.
  
+<br>
 
 ## 👨‍💻 Autor(es)
 
-Projeto desenvolvido orientado pelo professor Felipe Aguiar no curso Excel com IA da DIO (Digital Innovation One) como parte de um desafio prático de aprendizagem voltado à aplicação de Excel em simulações financeiras.
+Projeto desenvolvido por mim e orientado pelo professor Felipe Aguiar no curso Excel com IA da DIO (Digital Innovation One) como parte de um desafio prático de aprendizagem voltado à aplicação de Excel em simulações financeiras.
 

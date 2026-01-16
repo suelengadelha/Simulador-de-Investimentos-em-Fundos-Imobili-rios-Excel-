@@ -2,6 +2,9 @@
 
 <br>
 
+📊 [[Abrir planilha no Google Sheets](https://docs.google.com/spreadsheets/d/1_y3Pu8mt4lsbXAR5CUAr4zsbaxZlmweF/edit?usp=sharing&ouid=117578262124481762985&rtpof=true&sd=true)]
+
+
 ## 📌 Descrição do Desafio
 
 Este projeto tem como objetivo aplicar conceitos de Excel no desenvolvimento de uma ferramenta prática para simulação de investimentos em Fundos Imobiliários (FIIs).
@@ -97,4 +100,3 @@ Os valores simulados são estimativas e podem variar conforme condições reais 
 ## 👨‍💻 Autor(es)
 
 Projeto desenvolvido por mim e orientado pelo professor Felipe Aguiar no curso Excel com IA da DIO (Digital Innovation One) como parte de um desafio prático de aprendizagem voltado à aplicação de Excel em simulações financeiras.
-

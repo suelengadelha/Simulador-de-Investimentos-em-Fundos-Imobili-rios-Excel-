@@ -1,10 +1,8 @@
-# Simulador de Investimentos em Fundos Imobiliarios Excel<br>
-<br>
+# 📊 Simulador de Investimentos em Fundos Imobiliários (Excel)
 
-##📊 Simulador de Investimentos em Fundos Imobiliários (Excel)
 
-<br>
-###📌 Descrição do Desafio
+
+## 📌 Descrição do Desafio
 
 Este projeto tem como objetivo aplicar conceitos de Excel no desenvolvimento de uma ferramenta prática para simulação de investimentos em Fundos Imobiliários (FIIs).
 
@@ -18,8 +16,8 @@ Patrimônio acumulado ao longo do tempo
 
 Dividendos mensais estimados
 
-<br>
-###🎯 Objetivos de Aprendizagem
+
+## 🎯 Objetivos de Aprendizagem
 
 Ao concluir este desafio, foi possível:
 
@@ -33,8 +31,8 @@ Ao concluir este desafio, foi possível:
 
 ✅ Utilizar o GitHub como plataforma para versionamento e compartilhamento de documentação técnica
 
-<br>
-###🛠️ Funcionalidades da Planilha
+
+## 🛠️ Funcionalidades da Planilha
 
 Inserção de dados como:
 
@@ -56,14 +54,14 @@ Dividendos mensais estimados
 
 Visualização clara dos resultados para apoio à decisão do investidor
 
-<br>
-###📂 Estrutura do Repositório
+
+## 📂 Estrutura do Repositório
 📁 simulador-fundos-imobiliarios
  ├── 📄 Simulador_FII.xlsx
  └── 📄 README.md
  
-<br>
-###🚀 Como Utilizar
+
+## 🚀 Como Utilizar
 
 Faça o download do arquivo Simulador_FII.xlsx
 
@@ -73,8 +71,8 @@ Preencha os campos de entrada com os valores desejados
 
 Analise os resultados gerados automaticamente pela planilha
  
-<br>
-###📚 Tecnologias Utilizadas
+
+## 📚 Tecnologias Utilizadas
 
 Microsoft Excel
 
@@ -82,13 +80,14 @@ Conceitos de matemática financeira
 
 GitHub para versionamento e documentação
  
-<br>
-###📝 Observações
+
+## 📝 Observações
 
 Este projeto tem caráter educacional e não constitui recomendação de investimento.
 Os valores simulados são estimativas e podem variar conforme condições reais de mercado.
  
-<br>
-###👨‍💻 Autor(es)
+
+## 👨‍💻 Autor(es)
 
 Projeto desenvolvido orientado pelo professor Felipe Aguiar no curso Excel com IA da DIO (Digital Innovation One) como parte de um desafio prático de aprendizagem voltado à aplicação de Excel em simulações financeiras.
+
